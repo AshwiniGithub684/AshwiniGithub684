@@ -21,19 +21,6 @@
 
 ---
 
-## 💼 Work Experience  
-### 🔹 Hilltop Securities | Risk Management Intern *(May 2024 - July 2024)*  
-- 📊 Developed analyses using **Bloomberg Terminal & ERP systems**, improving decision-making by **30%**.  
-- 🔄 Automated reports using **Python & Power Apps**, saving **15+ hours of manual work per week**.  
-- 📈 Conducted **data validation & compliance reporting**, reducing error rates by **15%**.  
-
-### 🔹 Saint-Gobain | System Engineer *(April 2021 - Aug 2023)*  
-- ⚡ Optimized timesheet data, improving reporting efficiency and **saving 10 hours per week**.  
-- 📊 Designed dashboards using **Power BI & Power Apps**, increasing visibility into KPIs.  
-- 🛠️ Managed a portfolio of **5,000+ assets**, reducing data errors by **40%**.  
-
----
-
 ## 🛠️ Tech Stack & Skills  
 ### **Languages & Tools**  
 <p align="center">
