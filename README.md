@@ -40,9 +40,15 @@
 
 ## 🏆 Certifications  
 ✅ **Google Data Analytics Professional Certificate**  
+
 ✅ **Data Analytics for Business - University of Colorado Boulder**  
+- [View Certificate](https://www.coursera.org/account/accomplishments/verify/W3XV39QXXJ4S)
+
 ✅ **SQL for Data Science - University of California, Davis**  
+- [View Certificate](https://www.coursera.org/account/accomplishments/verify/AFP7PE4N6XMW)
+
 ✅ **Lean Six Sigma: Green Belt**  
+- [View Certificate](https://www.linkedin.com/learning/certificates/c73843e1dc29bd69baa829a7953ca66895bdca59e5bd5d699e5331715e48a0c0?trk=share_certificate)  
 
 ---
 
