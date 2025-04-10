@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Ashwini Deshmukh!  
 🎯 **Aspiring Data Analyst | Data Science Enthusiast | Business Intelligence | Process Automation**  
 
-📍 **Texas, USA** | 📧 **ashwini.deshmukh684@gmail.com** | 🌐 [LinkedIn](https://www.linkedin.com/in/ashwini-deshmukh-49226618b/)  
+📍 **Texas, USA** | 📧 **ashwini.d255@gmail.com** | 🌐 [LinkedIn](https://www.linkedin.com/in/ashwini-deshmukh-49226618b/)  
 
 ---
 
