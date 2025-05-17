@@ -39,7 +39,8 @@
 ---
 
 ## 🏆 Certifications  
-✅ **Google Data Analytics Professional Certificate**  
+✅ **Microsoft Azure AI Essentials Professional Certificate**
+- [View Certificate](https://www.linkedin.com/learning/certificates/1014094e828f5815c4ddde256827677a74ae104a4fed8def98e60543140eb23b?trk=share_certificate)
 
 ✅ **Data Analytics for Business - University of Colorado Boulder**  
 - [View Certificate](https://www.coursera.org/account/accomplishments/verify/W3XV39QXXJ4S)
